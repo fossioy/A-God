@@ -1,0 +1,2 @@
+# A-God
+abstract god
